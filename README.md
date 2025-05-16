@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **backend work**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **react, c++ and java**
 
 - 📫 How to reach me **urmilabisht795@gmail.com**
 
