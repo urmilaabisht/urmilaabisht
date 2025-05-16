@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, c++ and java**
 
-- 📫 How to reach me **urmilabisht795@gmail.com**
+- 📫 How to reach me **urmilabishtt@gmail.com**
 
 - ⚡ Fun fact **I'm a extremely curious human.**
 
